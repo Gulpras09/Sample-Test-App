@@ -6,7 +6,7 @@ st.text("Welcome, Prasad! Your first Streamlit app awaits.")
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-%matplotlib inline
+import sklearn
 
 # 1. Import necessary libraries
 import pandas as pd
